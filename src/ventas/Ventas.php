@@ -6,7 +6,11 @@ class Ventas {
         
     }
 
-    public function registro() {
+    public function registro($id = 0) {
+        
+    }
+
+    public function nuevo() {
         
     }
 
